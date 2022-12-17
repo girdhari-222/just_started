@@ -2,5 +2,5 @@
 
 void main()
 {
- printf("Just Started Gthub");
+ printf("Just Started Github");
 }
